@@ -1,0 +1,247 @@
+		case 'z':
+		case 'Z':
+		printf("\n\n  Enter Your USB Drive letter (eg.Z:)  :  ");
+		scanf("%s", &u);
+		switch(u)
+		{
+			case 'a':
+			case 'A':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 A:");
+									system("cls");
+			system("cd /D Z: & xcopy /E Z: A:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'b':
+			case 'B':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 B:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: B:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'c':
+			case 'C':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 C:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: C:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'd':
+			case 'D':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 D:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: D:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'e':
+			case 'E':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 E:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: E:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'f':
+			case 'F':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 F:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: F:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'g':
+			case 'G':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 G:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: G:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'h':
+			case 'H':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 H:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: H:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'i':
+			case 'I':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 I:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: I:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'j':
+			case 'J':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 J:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: J:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'k':
+			case 'K':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 K:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: K:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'l':
+			case 'L':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 L:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: L:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'm':
+			case 'M':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 M:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: M:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'n':
+			case 'N':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 N:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: N:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'o':
+			case 'O':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 O:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: O:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'p':
+			case 'P':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 P:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: P:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'q':
+			case 'Q':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 Q:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: Q:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'r':
+			case 'R':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 R:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: R:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 's':
+			case 'S':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 S:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: S:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 't':
+			case 'T':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 T:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: T:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'u':
+			case 'U':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 U:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: U:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'v':
+			case 'V':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 V:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: V:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'w':
+			case 'W':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 W:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: W:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'x':
+			case 'X':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 X:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: X:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'y':
+			case 'Y':
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 Y:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: Y:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			case 'z':
+			case 'Z':
+
+			system("cls");
+			system("cd /D Z: & cd boot & bootsect.exe /NT60 Z:");
+												system("cls");
+			system("cd /D Z: & xcopy /E Z: Z:");
+			system("cls");
+			printf("Your USB Drive has Been Successfully created as a Bootable Drive");
+			break;
+			defaulZ:
+			system("cls");
+			printf("\n\n\n\nEnter a Correct Drive Letter");
+			Sleep(2000);
+		}
+		break;	

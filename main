@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+#include<windows.h>
+void bootable();
+void format();
+main()
+{
+	int x;
+	printf("\n\n\tFirst Format Your Drive Then Try for making Bootable USB");
+	printf("\n\n\t1.Format Your USB Drive.\t\t2.Make Bootable USB.");
+while(1)
+{
+	x=getche();
+	x=toupper(x);
+}
+getch();
+}
